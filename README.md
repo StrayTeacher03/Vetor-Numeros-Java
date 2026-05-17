@@ -13,6 +13,7 @@ Exibir todas as operações
 
 ## Como executar:
 1- Compile o programa
+
 2- Execute a classe principal na pasta app
 
 ## Exemplos de uso:
@@ -20,9 +21,13 @@ Entrada:
 3, 4, 4, 4, 5
 
 Saída:
+
 Maior par: 4
+
 Menor ímpar: 3
+
 Soma: 20
+
 Média: 4
 
 # Tecnologias:
