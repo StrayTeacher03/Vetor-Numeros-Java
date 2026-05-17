@@ -23,7 +23,7 @@ public class SistemaNumero {
     public int MaPar(int[] nums) {//Método para calcular o maior número par, contando a quantidade de números pares lidos
         int maPar = 0;
         for (int num : nums) {
-            if (num % 2 == 0) {
+            if (num % 2 == 0 && num != 0) {
                 quantPar++;
                 if (maPar == 0 || num > maPar) {
                     maPar = num;
